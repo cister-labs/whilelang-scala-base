@@ -2,7 +2,7 @@
 
 Small `While` language to be used in an introductory course on software verification.
 
-The result is website that uses JavaScript to animate the language. A simplified version can be found online: https://cister-labs.github.io/whilelang-animator.
+The result is website that uses JavaScript to animate the language. This repository is a simplified version of a more complete one that can be executed online: https://cister-labs.github.io/whilelang-scala/.
 
 
 ## Requirements
